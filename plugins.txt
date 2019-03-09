@@ -1,1 +1,3 @@
-
+ant:latest
+build-timeout:latest
+workflow-aggregator:latest
