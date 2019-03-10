@@ -4,7 +4,6 @@ build-timeout:1.19
 cucumber-reports:4.5.0
 docker-plugin:1.1.6
 email-ext:2.65
-gradle-plugin:1.30
 groovy:2.2
 ldap:1.20
 matrix-auth:2.3
